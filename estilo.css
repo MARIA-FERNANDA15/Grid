@@ -1,0 +1,9 @@
+.carousel-item> img{
+	height: 99vh;
+}
+.carousel-caption> h5,p{
+	color: black;
+}
+.row > div[class*="col"]{
+	border: solid red 2px;
+}
